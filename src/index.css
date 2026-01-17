@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+button:hover {
+  background-color: cadetblue;
+}
+
+/* button {
+  animation: dev 2s linear 1s infinite normal step-end;
+} */
